@@ -56,7 +56,16 @@ Here are some sample travel queries you can try with **Gemini**:
  *  “Find family friendly attractions in Barcelona”
  *  “Highly rated motels in Amsterdam with rating over 4.5”
 
-![Screenshot 2025-04-20 135524](https://github.com/user-attachments/assets/173a6ef5-12c7-49e1-8592-f4bfb880788c)
+---
+
+![Screenshot 2025-04-20 142913](https://github.com/user-attachments/assets/d79ccf47-387a-4b84-9dbf-5cefd1a7332c)
+
+![Screenshot 2025-04-20 142932](https://github.com/user-attachments/assets/f161ecf0-9cf4-46f7-9ae4-58dd7fe826a4)
+
+---
+
+![Screenshot 2025-04-20 135524](https://github.com/user-attachments/assets/90dd95a6-5e27-4ca4-b564-ae27cecf151d)
+
 ![Screenshot 2025-04-20 135604](https://github.com/user-attachments/assets/934524ff-288e-4e75-bb0e-ffbef47e8c34)
 
 Feel free to try these in the interactive notebook or change them according to your own preferences!
