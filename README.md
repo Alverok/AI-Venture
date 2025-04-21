@@ -1,6 +1,5 @@
 ## AI-Venture: GenAI Powered Travel Planner 🗺️
 
-
 ### 👾 | Overview
 
 **AI-Venture** is an intelligent travel planning assistant powered by **Google's Gemini API** and **Generative AI** capabilities. Travel planning can be overwhelming, expensive, and time-consuming. To solve this, I built **AI-Venture** to offer personalized travel itineraries — powered by AI, and designed to save you time, money, and stress.
@@ -127,8 +126,3 @@ To get **AI-Venture** up and running, follow these steps:
 
 ### 🤝 | Acknowledgments
 Thanks to **Google Cloud**, **Kaggle**, and the **Gen AI Capstone Team** for providing this incredible learning opportunity and support throughout the project!
-
----
-
-### 📌 | License
-MIT License. Free to use, modify, and distribute with attribution.
