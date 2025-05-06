@@ -113,7 +113,7 @@ To get **AI-Venture** up and running, follow these steps:
  *  Basic knowledge of **Python** & **Pandas** for smooth interaction.
 
 **Setup Instructions:**
-1. Clone the repo: `git clone https://github.com/Alverok/AI-Venture-Kaggle-Capstone-Project.git`
+1. Clone the repo: `git clone https://github.com/Alverok/AI-Venture.git`
 2. Open the notebook: `AI-Venture: Kaggle Gen-AI Capstone Project.ipynb`
 3. Authenticate with Google Cloud.
 4. Run all cells and interact with **Gemini**!
